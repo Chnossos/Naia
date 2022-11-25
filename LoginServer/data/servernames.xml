@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<servers_list>
+	<server id="1" name="Jiva" type="Classic" />
+	<server id="2" name="Rushu" type="Classic" />
+	<server id="3" name="Djaul" type="Classic" />
+	<server id="4" name="Raval" type="Classic" />
+	<server id="5" name="Hecate" type="Classic" />
+	<server id="6" name="Sumens" type="Classic" />
+	<server id="7" name="Menalt" type="Classic" />
+	<server id="8" name="Rosal" type="Classic" />
+	<server id="9" name="Maimane" type="Classic" />
+	<server id="10" name="Silvosse" type="Classic" />
+	<server id="11" name="Brumaire" type="Classic" />
+	<server id="12" name="Pouchecot" type="Classic" />
+	<server id="13" name="Silouate" type="Classic" />
+	<server id="14" name="Domen" type="Classic" />
+	<server id="15" name="Amayiro" type="Classic" />
+	<server id="16" name="Rikke-Errel" type="Classic" />
+	<server id="17" name="Hyrkul" type="Classic" />
+	<server id="18" name="Helsephine" type="Classic" />
+	<server id="19" name="Allister" type="Classic" />
+	<server id="20" name="Otomaï" type="Classic" />
+	<server id="21" name="Lily" type="Classic" />
+	<server id="22" name="Oto Mustam" type="Hardcore" />
+	<server id="23" name="Hel Munster" type="Classic" />
+	<server id="24" name="Danathor" type="Classic" />
+	<server id="25" name="Kuri" type="Classic" />
+	<server id="26" name="Mylaise" type="Classic" />
+	<server id="27" name="Goultard" type="Classic" />
+	<server id="28" name="Ulette" type="Classic" />
+	<server id="29" name="Vil Smisse" type="Classic" />
+	<server id="30" name="Many" type="Classic" />
+	<server id="31" name="Solar" type="Classic" />
+	<server id="32" name="Crocoburio" type="Classic" />
+	<server id="33" name="Li Crounch" type="Classic" />
+	<server id="35" name="Farle" type="Classic" />
+	<server id="36" name="Agride" type="Classic" />
+	<server id="37" name="Bowisse" type="Classic" />
+	<server id="38" name="Ogivol" type="Classic" />
+	<server id="39" name="Lethaline" type="Classic" />
+	<server id="40" name="Aermyne" type="Classic" />
+	<server id="41" name="Zatoïshwan" type="Classic" />
+	<server id="99" name="Tournois" type="Tournament" />
+	<server id="1001" name="Shika" type="Classic" />
+	<server id="3001" name="Nehra" type="Classic" />
+	<server id="3002" name="Katar" type="Classic" />
+	<server id="4001" name="Alma" type="Classic" />
+	<server id="4002" name="Aguabrial" type="Classic" />
+	<server id="4003" name="Buhorado" type="Classic" />
+	<server id="4004" name="Ténèbres" type="Classic" />
+	<server id="4005" name="Bolgrot" type="Classic" />
+	<server id="4006" name="Nomekop" type="Classic" />
+	<server id="4007" name="Edasse" type="Classic" />
+	<server id="4008" name="Eratz" type="Classic" />
+	<server id="6001" name="Spiritia" type="Classic" />
+	<server id="6002" name="Helioboros" type="Classic" />
+	<server id="7001" name="Dark Vlad" type="Classic" />
+	<server id="9001" name="Ereziah" type="Classic" />
+</servers_list>

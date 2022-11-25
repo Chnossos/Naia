@@ -1,0 +1,4 @@
+# These annouvements only appear at character's arrival on map.
+# You can use HTML entities to customise their properties (like boldness or colour).
+<font color='#BF0000'><b>Announcement : Welcome on Naia Live Test Server !</b></font>
+<font color='#BF0000'><b>Announcement : le canal Incarnam est accessible via /i !</b></font>

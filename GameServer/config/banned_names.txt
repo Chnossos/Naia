@@ -1,0 +1,2 @@
+# Append every name to ban on a new line.
+FUCK

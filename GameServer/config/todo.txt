@@ -1,0 +1,11 @@
+
+# ---------------------------------------------------------------------------
+# Language
+# ---------------------------------------------------------------------------
+# Language file name
+# Note: The default file is named "lang_en_UK.lang" and set in "Language/" folder.
+#	-- You can set up your own language by translating the default file
+#	-- and indicating the file name above. Use the format : "lang_your_file_name.lang"
+#	-- If any trouble appears with the default language, please download the lastest version.
+# Default: en_UK
+Language = en_UK

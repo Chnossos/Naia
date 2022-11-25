@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!Shared
+!LoginServer
+!GameServer
+!conanfile.txt
+!README.md
+!CMakeLists.txt
+!*.cpp
+!*.hpp
+*.log

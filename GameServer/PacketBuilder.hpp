@@ -1,0 +1,9 @@
+#ifndef PACKETBUILDER_HPP_INCLUDED
+#define PACKETBUILDER_HPP_INCLUDED
+
+namespace PacketBuilder
+{
+
+}
+
+#endif // PACKETBUILDER_HPP_INCLUDED
