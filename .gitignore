@@ -3,6 +3,8 @@
 !Shared
 !LoginServer
 !GameServer
+!sql
+!Tools
 !conanfile.txt
 !README.md
 !CMakeLists.txt

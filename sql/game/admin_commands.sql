@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `admin_commands` (
+	`Name` VARCHAR(255) NOT NULL DEFAULT '',
+	`Access_Level` VARCHAR(255) NOT NULL DEFAULT ''
+);
