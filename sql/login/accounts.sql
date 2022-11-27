@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS `accounts` (
 	`Subscribe_Time` bigint(18) NOT NULL DEFAULT '0',
 	`Is_Online` tinyint(3) NOT NULL DEFAULT '0',
 	`Last_Connection_Date` int UNSIGNED NOT NULL DEFAULT '0',
-	`Available_Channels` VARCHAR(15) NOT NULL DEFAULT 'i*?:!'
+	`Available_Channels` VARCHAR(15) NOT NULL DEFAULT 'i*?:!',
 	`Mute_End_Date` bigint(18) NOT NULL DEFAULT '0',
 	PRIMARY KEY (`ID`)
 );
@@ -31,6 +31,8 @@ INSERT INTO `accounts` VALUE (
 	'', 
 	'', 
 	'1356217992',
-	'0',
-	'0'
+	DEFAULT,
+	DEFAULT,
+	DEFAULT,
+	DEFAULT
 );
