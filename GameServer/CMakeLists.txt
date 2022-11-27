@@ -5,6 +5,7 @@ set_target_properties(${PROJECT_NAME} PROPERTIES CXX_EXTENSIONS OFF)
 target_link_libraries(${PROJECT_NAME} PRIVATE Shared)
 
 set(SOURCES
+        main.cpp
         Application.cpp
         Character.cpp
         Chat.cpp
@@ -16,13 +17,13 @@ set(SOURCES
         HandleGameTasks.cpp
         HandleServerRequest.cpp
         Level.cpp
-        main.cpp
         Map.cpp
         Session.cpp
         StorageProvider.cpp
         World.cpp
 )
 set(HEADERS
+        main.hpp
         Application.hpp
         Cell.hpp
         Character.hpp
@@ -36,8 +37,8 @@ set(HEADERS
         HandleGameTasks.hpp
         HandleServerRequest.hpp
         Level.hpp
-        main.hpp
         Map.hpp
+        Naia.hpp
         PacketBuilder.hpp
         Session.hpp
         StorageProvider.hpp
@@ -45,4 +46,3 @@ set(HEADERS
         World.hpp
 )
 target_sources(${PROJECT_NAME} PRIVATE ${SOURCES} ${HEADERS})
-target_precompile_headers(${PROJECT_NAME} PRIVATE Naia.hpp)

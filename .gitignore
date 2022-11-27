@@ -3,11 +3,11 @@
 !Shared
 !LoginServer
 !GameServer
+!GSRegister
 !sql
 !Tools
 !conanfile.txt
 !README.md
 !CMakeLists.txt
-!*.cpp
-!*.hpp
 *.log
+*.txt

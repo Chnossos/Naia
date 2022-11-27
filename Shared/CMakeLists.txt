@@ -25,6 +25,7 @@ set(SOURCES
         Utils.cpp
 )
 set(HEADERS
+        _Common.hpp
         Config.hpp
         ConfigDefault.hpp
         Connector.hpp
@@ -46,4 +47,3 @@ set(HEADERS
 set_source_files_properties(md5.c PROPERTIES LANGUAGE CXX)
 set_source_files_properties(MersenneTwister.cpp PROPERTIES COMPILE_OPTIONS $<$<BOOL:${MSVC}>:/wd4293>)
 target_sources(${PROJECT_NAME} PRIVATE ${SOURCES} ${HEADERS})
-target_precompile_headers(${PROJECT_NAME} PRIVATE _Common.hpp)
